@@ -18,7 +18,7 @@
 .theme-dark {
 /* Backdrop image which is shown behind the app. Can also be an HTML color. Falls back to accent color if invalid.
    To use an image from your computer, upload it somewhere first, copy its link, then paste it below. */
-  --dplus-backdrop: url(https://i.imgur.com/3AiL3yN.png);
+  --dplus-backdrop: url(https://preview.redd.it/minimal-black-hole-1680x1050-v0-k53w3yvv8klc1.jpeg?auto=webp&s=19703cfd5ac0060a23a6765dba20b22e6a462a55);
 
 /* Accent color, used to decorate the UI with colors. */
   --dplus-accent-color-hue: 320;
